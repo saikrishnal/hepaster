@@ -1,5 +1,7 @@
 # Heapster
 Heapster InfluxDB Grafana
+#### Add Falnnel to existing cluster
+=> https://github.com/coreos/flannel
 #### Monitoring Kubernetes Clusters
 => https://dzone.com/articles/kubernetes-monitoring-best-practices-methods-and-e </br>
 => https://github.com/Azure/acs-engine/blob/master/docs/kubernetes/monitoring.md#grafana-and-influx-db

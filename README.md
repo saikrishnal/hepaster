@@ -9,3 +9,6 @@ Heapster InfluxDB Grafana
 => https://dzone.com/articles/kubernetes-monitoring-best-practices-methods-and-e
 #### Logging
 => https://banzaicloud.com/blog/k8s-logging/
+### Extra Notes
+#### Simple Kubernetes cluster metrics monitoring with Prometheus and Grafana
+=> https://medium.com/@timfpark/simple-kubernetes-cluster-monitoring-with-prometheus-and-grafana-dd27edb1641

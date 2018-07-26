@@ -14,4 +14,5 @@ Heapster InfluxDB Grafana
 => https://medium.com/@timfpark/simple-kubernetes-cluster-monitoring-with-prometheus-and-grafana-dd27edb1641
 #### Tick stack
 => https://www.influxdata.com/blog/how-to-spin-up-the-tick-stack-in-a-kubernetes-instance/
-#### 
+#### K8s cluster setup
+=> https://cwienczek.com/multi-node-kubernetes-cluster-on-vagrant-in-five-minutes/

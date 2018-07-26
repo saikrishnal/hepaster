@@ -12,3 +12,6 @@ Heapster InfluxDB Grafana
 ### Extra Notes
 #### Simple Kubernetes cluster metrics monitoring with Prometheus and Grafana
 => https://medium.com/@timfpark/simple-kubernetes-cluster-monitoring-with-prometheus-and-grafana-dd27edb1641
+#### Tick stack
+=> https://www.influxdata.com/blog/how-to-spin-up-the-tick-stack-in-a-kubernetes-instance/
+#### 

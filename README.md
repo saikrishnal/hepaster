@@ -1,4 +1,4 @@
-# hepaster
+# Heapster
 Heapster InfluxDB Grafana
 #### Monitoring Kubernetes Clusters
 => https://dzone.com/articles/kubernetes-monitoring-best-practices-methods-and-e </br>

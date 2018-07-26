@@ -15,6 +15,7 @@ Heapster InfluxDB Grafana
 #### Tick stack
 => https://www.influxdata.com/blog/how-to-spin-up-the-tick-stack-in-a-kubernetes-instance/
 #### K8s cluster setup
+=> https://geraldonit.com/2018/03/26/deploying-a-kubernetes-cluster-with-vagrant-on-virtual-box/ </br>
 => https://cwienczek.com/multi-node-kubernetes-cluster-on-vagrant-in-five-minutes/ </br>
 => https://geraldonit.com/2018/03/26/deploying-a-kubernetes-cluster-with-vagrant-on-virtual-box/
 

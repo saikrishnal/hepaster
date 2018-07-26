@@ -7,4 +7,5 @@ Heapster InfluxDB Grafana
 => https://logz.io/blog/kubernetes-logging-fluentd/
 #### Heapster + ELK Stack 
 => https://dzone.com/articles/kubernetes-monitoring-best-practices-methods-and-e
-
+#### Logging
+=> https://banzaicloud.com/blog/k8s-logging/
